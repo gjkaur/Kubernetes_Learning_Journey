@@ -3,7 +3,7 @@
 Welcome to the Kubernetes Learning Path! This repository contains resources and guides to help you master Kubernetes, the powerful container orchestration platform.
 
 ## [Part 1]()
-___
+
 ## What is Kubernetes? 🌐
 
 Kubernetes is an open-source container orchestration platform designed to automate the deployment, scaling, and management of containerized applications.
